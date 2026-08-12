@@ -3,7 +3,7 @@
   <!-- Banner Superior em Azul Marinho -->
   <img src="https://vercel.app" />
   
-  <p>@seu_usuario</p>
+  <p>@Hugovictor</p>
   <hr>
   <p>Bem-vindo ao meu perfil.</p>
 </div>
@@ -16,5 +16,6 @@
 ![Python](https://shields.io)
 
 ### 🚀 Sobre Mim
+Tenho ideias de soluções para resolver questões tecnológicas no mundo
 
-Escreva aqui o seu texto personalizado sobre suas experiências, projetos ou objetivos profissionais com essas linguagens.
+
